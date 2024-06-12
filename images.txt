@@ -12,3 +12,4 @@ linuxserver/qbittorrent
 jeessy/ddns-go
 linuxserver/heimdall
 xhofe/alist
+jonnyan404/docker-ui
