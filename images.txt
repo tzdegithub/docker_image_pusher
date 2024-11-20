@@ -13,3 +13,4 @@ jeessy/ddns-go
 linuxserver/heimdall
 xhofe/alist
 jonnyan404/docker-ui
+6053537/portainer-ce
